@@ -1,5 +1,5 @@
 # Stable Ubuntu version
-FROM ubuntu:22.10
+FROM ubuntu:20.04
 RUN apt update
 
 # Install Node / NPM
